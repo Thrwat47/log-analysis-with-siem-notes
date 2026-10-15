@@ -117,7 +117,8 @@ I investigated four scenarios in Splunk, each in its own index:
 - A single log is often harmless, but correlating process, network, account, and service events tells the full attack story.
 
 ## Screenshot
-![Room completed](<img width="1920" height="1032" alt="Screenshot 2026-10-15 055452" src="https://github.com/user-attachments/assets/f2787ccd-8c6f-4468-a7b7-ff9aa819a8fd" />
-)
+
+   <img width="1920" height="675" alt="Screenshot 2026-10-15 055452" src="https://github.com/user-attachments/assets/a101808d-c7fc-4cf0-b1b8-691a7d7e67c6" />
+
 
 
